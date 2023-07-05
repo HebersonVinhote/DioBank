@@ -1,5 +1,5 @@
 # DioBank
-## 1º desafio de código para o boot camp do Ifood
+## 1º desafio de código para o bootcamp do Ifood
 
 O código base foi modificado.
 Foram acrescentados novas funções ao codigo, sendo elas:
